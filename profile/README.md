@@ -10,7 +10,7 @@ pomysłów	dotyczących	funkcjonowania	uczelni	oraz	innych	związanych	z	życiem
 | :-------------:                      |    :----:         |          
 | Portal innowacji - backend           | `Java 11`, `Spring Boot 2.5.6`, `Gradle 7.2`      | 
 | Portal społecznościowy - backend     | `ASP .NET Core 5.0`                               | 
-| i tak                                | dalej             | 
+| Aplikacja Webowa - frontend          | `ReactJS 17`, `Typescript 4`                           | 
 
 ## CI/CD
 #### Backend
