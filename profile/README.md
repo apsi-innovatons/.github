@@ -28,7 +28,7 @@ TODO
 * [Portal innowacji](https://apsi-backend-java.azurewebsites.net/swagger-ui.html) (Spring Boot backend)
 * [Repozytorium kodu](https://github.com/apsi-innovatons/apsi-backend-java)
 #### Frontend 
-* [Aplikacja](https://apsi-innowacje-dev.vercel.app/login)
+* [Aplikacja](https://apsi-innowacje-test.vercel.app/login)
 * [Repozytorium kodu](https://github.com/radziminski/apsi-innowacje-frontend/tree/dev)
 #### Projekt bazy danych i aplikacja generująca testowe dane
 * [Repozytorium kodu](https://github.com/apsi-innovatons/apsi-database)
