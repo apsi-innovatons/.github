@@ -16,7 +16,7 @@ pomysłów	dotyczących	funkcjonowania	uczelni	oraz	innych	związanych	z	życiem
 
 ## CI/CD
 #### Backend
-Do wdrażania kolejnych wersji, aplikacje backendowe używają [GitHub Actions](https://github.com/features/actions), dzięki czemu po każdym `pushu`, aplikacja jest budowana ze podanej gałęzi oraz wdrażana na platformę [Microsoft Azure](https://azure.microsoft.com/pl-pl/).
+Do wdrażania kolejnych wersji, aplikacje backendowe używają [GitHub Actions](https://github.com/features/actions), dzięki czemu po każdym `pushu`, aplikacja jest budowana z gałęzi `main` oraz wdrażana na platformę [Microsoft Azure](https://azure.microsoft.com/pl-pl/).
 #### Frontend
 TODO
 
