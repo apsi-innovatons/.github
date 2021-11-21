@@ -23,10 +23,10 @@ TODO
 ## Adresy 
 #### Backend innowacji
 * [Portal społecznościowy](https://apsi-backend-dotnet.azurewebsites.net/swagger/index.html) (.NET backend)
-* [Repozytorium kodu]https://github.com/apsi-innovatons/apsi-backend-dotnet
+* [Repozytorium kodu](https://github.com/apsi-innovatons/apsi-backend-dotnet)
 #### Backend forum społecznościowego
 * [Portal innowacji](https://apsi-backend-java.azurewebsites.net/swagger-ui.html) (Spring Boot backend)
-* [Repozytorium kodu]https://github.com/apsi-innovatons/apsi-backend-java
+* [Repozytorium kodu](https://github.com/apsi-innovatons/apsi-backend-java)
 #### Frontend 
 * [Repozytorium kodu](https://github.com/radziminski/apsi-innowacje-frontend/tree/dev)
 * [Aplikacja](https://apsi-innowacje-dev.vercel.app/login)
