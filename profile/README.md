@@ -8,10 +8,13 @@ pomysłów	dotyczących	funkcjonowania	uczelni	oraz	innych	związanych	z	życiem
 ## Użyte technologie
 | Moduł                                | Użyte technologie | 
 | :-------------:                      |    :----:         |          
-| Portal innowacji - backend           | `Java 11`, `Spring Boot 2.5.6`, `Gradle 7.2`            | 
+| Portal innowacji - backend           | `Java 11`, `Spring Boot 2.5.6`, `Gradle 7.2`      | 
 | Portal społecznościowy - backend     | `ASP .NET Core 5.0`                               | 
-
 | i tak                                | dalej             | 
+
+## CI/CD
+#### Backend
+Do wdrażania kolejnych wersji, aplikacje backendowe używają [GitHub Actions](https://github.com/features/actions), dzięki czemu po każdym `pushu`, aplikacja jest budowana ze podanej gałęzi oraz wdrażana na platformę [Microsoft Azure](https://azure.microsoft.com/pl-pl/).
 
 ## Adresy 
 #### Backend swagger
