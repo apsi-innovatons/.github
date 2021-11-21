@@ -6,10 +6,17 @@ pomysłów	dotyczących	funkcjonowania	uczelni	oraz	innych	związanych	z	życiem
 * TODO - schemat,
 
 ## Użyte technologie
-* TODO
+| Moduł                          | Użyte technologie | 
+| :-------------:                |    :----:         |          
+| Portal innowacji - backend     | `Java 11`, `Spring Boot 2.5.6`, `Gradle 7.2`            | 
+| i tak                          | dalej             | 
 
 ## Adresy 
-* TODO - adres apki do przeklikania, 
-* TODO - adres do repo frontowego,
-* TODO - adres do lineara
+#### Backend swagger
+* [Portal społecznościowy](https://apsi-backend-dotnet.azurewebsites.net/swagger/index.html) (.NET backend)
+* [Portal innowacji](https://apsi-backend-java.azurewebsites.net/swagger-ui.html) (Spring Boot backend)
+#### Frontend 
+* [Repozytorium kodu](https://github.com/radziminski/apsi-innowacje-frontend/tree/dev)
+* [Aplikacja](https://apsi-innowacje-dev.vercel.app/login)
+* TODO - adres do lineara?
 
