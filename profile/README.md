@@ -28,7 +28,10 @@ Repozytorium Frontend'owe używa platformy [Vercel](https://vercel.com/) do wdra
 * [Portal innowacji](https://apsi-backend-java.azurewebsites.net/swagger-ui.html) (Spring Boot backend)
 * [Repozytorium kodu](https://github.com/apsi-innovatons/apsi-backend-java)
 #### Frontend 
-* [Aplikacja](https://apsi-innowacje-test.vercel.app/login)
+* [Aplikacja](https://apsi-innowacje-test.vercel.app/login) (Do logowania należy użyć hasła *1234567890* oraz jednej z nazw użytkownika: Student, Employee, Committee, Admin)
+
+Odpowiadającej jego roli
+
 * [Repozytorium kodu](https://github.com/radziminski/apsi-innowacje-frontend/tree/dev)
 #### Projekt bazy danych i aplikacja generująca testowe dane
 * [Repozytorium kodu](https://github.com/apsi-innovatons/apsi-database)
