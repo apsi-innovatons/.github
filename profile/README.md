@@ -22,4 +22,4 @@ pomysłów	dotyczących	funkcjonowania	uczelni	oraz	innych	związanych	z	życiem
 * [Aplikacja](https://apsi-innowacje-dev.vercel.app/login)
 
 #### Planowanie pracy
-* [Agile board] - https://linear.app/innowacje/team/INN/board
+* [Agile board](https://linear.app/innowacje/team/INN/board)
