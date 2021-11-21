@@ -8,11 +8,15 @@ pomysłów	dotyczących	funkcjonowania	uczelni	oraz	innych	związanych	z	życiem
 </p>
 
 ## Użyte technologie
+<div align="center">
+  
 | Moduł                                | Użyte technologie | 
 | :-------------:                      |    :----:         |          
 | Portal innowacji - backend           | `Java 11`, `Spring Boot 2.5.6`, `Gradle 7.2`      | 
 | Portal społecznościowy - backend     | `ASP .NET Core 5.0`                               | 
 | Aplikacja Webowa - frontend          | `ReactJS 17`, `Typescript 4`                           | 
+  
+</div>
 
 ## CI/CD
 #### Backend
