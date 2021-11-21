@@ -3,9 +3,7 @@ Powyższa organizacja służy jako kontener repozytoriów kodu aplikacji tworzon
 pomysłów	dotyczących	funkcjonowania	uczelni	oraz	innych	związanych	z	życiem	akademickim.
 
 ## Architektura aplikacji
-<p align="center">
-  <img src="images/apsi-innovations.drawio.png" />
-</p>
+* TODO - schemat,
 
 ## Użyte technologie
 | Moduł                                | Użyte technologie | 
@@ -21,12 +19,14 @@ Do wdrażania kolejnych wersji, aplikacje backendowe używają [GitHub Actions](
 TODO
 
 ## Adresy 
-#### Backend swagger
+#### Backend innowacji
 * [Portal społecznościowy](https://apsi-backend-dotnet.azurewebsites.net/swagger/index.html) (.NET backend)
+* [Repozytorium kodu]https://github.com/apsi-innovatons/apsi-backend-dotnet
+#### Backend forum społecznościowego
 * [Portal innowacji](https://apsi-backend-java.azurewebsites.net/swagger-ui.html) (Spring Boot backend)
+* [Repozytorium kodu]https://github.com/apsi-innovatons/apsi-backend-java
 #### Frontend 
 * [Repozytorium kodu](https://github.com/radziminski/apsi-innowacje-frontend/tree/dev)
 * [Aplikacja](https://apsi-innowacje-dev.vercel.app/login)
-
 #### Planowanie pracy
 * [Agile board](https://linear.app/innowacje/team/INN/board)
