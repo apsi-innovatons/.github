@@ -30,5 +30,7 @@ TODO
 #### Frontend 
 * [Repozytorium kodu](https://github.com/radziminski/apsi-innowacje-frontend/tree/dev)
 * [Aplikacja](https://apsi-innowacje-dev.vercel.app/login)
+#### Projekt bazy danych i aplikacja generująca testowe dane
+* [Repozytorium kodu]https://github.com/apsi-innovatons/apsi-database
 #### Planowanie pracy
 * [Agile board](https://linear.app/innowacje/team/INN/board)
