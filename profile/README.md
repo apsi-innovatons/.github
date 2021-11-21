@@ -18,7 +18,7 @@ pomysłów	dotyczących	funkcjonowania	uczelni	oraz	innych	związanych	z	życiem
 #### Backend
 Do wdrażania kolejnych wersji, aplikacje backendowe używają [GitHub Actions](https://github.com/features/actions), dzięki czemu po każdym `pushu`, aplikacja jest budowana z gałęzi `main` oraz wdrażana na platformę [Microsoft Azure](https://azure.microsoft.com/pl-pl/).
 #### Frontend
-TODO
+Repozytorium Frontend'owe używa platformy [Vercel](https://vercel.com/) do wdrażania kolejnych wersji aplikacji. W Vercel'u zdefiniowane są skrypty wymagane do zbudowania aplikacji, które razem z wbudowanymi funkcjami budują i wdrażają aplikację na podstawie kodu znajdującego się na danej gałęzi. Ta procedura jest wywoływana automatycznie przy każdej zmianie dokonanej na gałęzi i skutkuje upublicznieniem aplikacji pod adresem URL odpawiadającym danej akcji. Co więcej, Vercel automatycznie buduje i tworzy podgląd zmian na gałęzi z której został otwarty `Pull Request`. Najnowsza wersja aplikacji znajduje się pod adresem (https://apsi-innowacje-test.vercel.app).
 
 ## Adresy 
 #### Backend innowacji
