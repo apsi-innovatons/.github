@@ -20,4 +20,6 @@ pomysłów	dotyczących	funkcjonowania	uczelni	oraz	innych	związanych	z	życiem
 #### Frontend 
 * [Repozytorium kodu](https://github.com/radziminski/apsi-innowacje-frontend/tree/dev)
 * [Aplikacja](https://apsi-innowacje-dev.vercel.app/login)
-* TODO - adres do lineara?
+
+#### Planowanie pracy
+* [Agile board] - https://linear.app/innowacje/team/INN/board
