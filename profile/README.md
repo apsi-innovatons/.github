@@ -3,7 +3,9 @@ Powyższa organizacja służy jako kontener repozytoriów kodu aplikacji tworzon
 pomysłów	dotyczących	funkcjonowania	uczelni	oraz	innych	związanych	z	życiem	akademickim.
 
 ## Architektura aplikacji
-* TODO - schemat,
+<p align="center">
+  <img src="images/apsi-innovations.drawio.png" />
+</p>
 
 ## Użyte technologie
 | Moduł                                | Użyte technologie | 
